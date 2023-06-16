@@ -1,16 +1,17 @@
 # 42Porto_Libft
-This project is about coding a C library. It will contain a lot of general purpose functions your programs will rely upon.
+This project is about coding a C library. It will contain a lot of general-purpose functions your programs will rely upon.
 Libft is a custom library created as a part of the 42 curriculum. It contains a set of useful functions that can be used in various C projects. The purpose of this library is to provide an implementation of standard library functions, as well as additional functions that can be handy in everyday programming tasks.
-For more detailed information, look at the [**subject of this project**](https://github.com/Uatilla/42Porto_Libft/blob/main/1%20-%20Libft_en.subject.pdf).
+For more detailed information, look at the [**subject of this project**](https://github.com/Uatilla/42Porto_Libft/blob/main/Libft_en.subject.pdf).
+
 [![MasterHead](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExODI4MTEwMzllZjE2ODE4OGI1NDM3YTg5MTgxYzYyNzRiOWQyNDI2NCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/fsXOS3oBboiYf6fSsY/giphy.gif)](https://www.linkedin.com/in/uatilla/)
 
 ## Getting Started
 
-You just need to download or clone this git repository.
+You need to download or clone this git repository.
 `git clone git@github.com:Uatilla/42Porto_Libft.git`
 
 The repository contains all functions source code, and the Makefile that can be used to compile.
-In the repository's root directory runs on terminal the following codes:
+In the repository's root directory runs on the terminal the following codes:
 
 To build the library and link the **Mandatory** files: `make`
 To build the library and link the **Bonus** files: `make bonus`
@@ -26,7 +27,7 @@ To clean all .o files, the libft.a and build the library libft.a the Mandatory f
 
 ## Functions
 
-The library provides a wide range of functions that cover various common programming operations, such as:
+The library provides a wide range of functions that cover various everyday programming operations, such as:
 
 ## Mandatory part
 
@@ -40,13 +41,13 @@ The library provides a wide range of functions that cover various common program
 
 ***ft_memmove()**: Copies n bytes of data from a memory area (the data CAN overleap).
 
-***ft_memchr()**: Returns the position in the memory that the first occurrence of a character happened.
+***ft_memchr()**: Returns the position in the memory where the first occurrence of a character happened.
 
 **ft_memcmp()**: Compares two memory areas and returns the difference between the first different character.
 
 ### String manipulation
 
-***ft_calloc()**: Alocate some memory of size bytes and sets as 0.
+***ft_calloc()**: Allocate some memory of size bytes and set it as 0.
 
 ***ft_strdup()**: Make some memory with malloc() and duplicates a string to there.
 
@@ -130,7 +131,7 @@ The library provides a wide range of functions that cover various common program
 
 ***ft_lstclear()**: Deletes and frees the given element and every successor
 
-### List itaration and mapping
+### List iteration and mapping
 
 **ft_lstiter()**: Iterates the list ’lst’ and applies the function
 
