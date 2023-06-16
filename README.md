@@ -138,7 +138,7 @@ The library provides a wide range of functions that cover various common program
 ***ft_lstmap()**: Iterates the list ’lst’ and applies the function returning a new list
 
 <h1 align="center">Hi 👋, I'm Uatilla Viana Almeida</h1>
-<h3 align="center">A brazilian code learner</h3>
+<h3 align="center">A brazilian code learner and a 42 student</h3>
 <img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExN25yYmwyMmxoMmI0YXBjd2lwb2c3Z2Eybjg2bWZxdXFyd3VnNGE5NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=uatilla&label=Profile%20views&color=0e75b6&style=flat" alt="uatilla" /> </p>
