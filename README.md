@@ -1,6 +1,7 @@
-# 42Porto_Libft
+# 42_Libft
 This project is about coding a C library. It will contain a lot of general-purpose functions your programs will rely upon.
 Libft is a custom library created as a part of the 42 curriculum. It contains a set of useful functions that can be used in various C projects. The purpose of this library is to provide an implementation of standard library functions, as well as additional functions that can be handy in everyday programming tasks.
+Includes string manipulation, memory allocation, and linked list operations.
 For more detailed information, look at the [**subject of this project**](https://github.com/Uatilla/42Porto_Libft/blob/main/Libft_en.subject.pdf).
 
 [![MasterHead](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExODI4MTEwMzllZjE2ODE4OGI1NDM3YTg5MTgxYzYyNzRiOWQyNDI2NCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/fsXOS3oBboiYf6fSsY/giphy.gif)](https://www.linkedin.com/in/uatilla/)
